@@ -30,4 +30,9 @@ function processInput() {
     }
 
      console.log(qaObject);
+
+    
+     document.getElementById("textArea").value = "";
+     alert("Submit Successfully  See in Console")
+
 }
